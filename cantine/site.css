@@ -72,3 +72,5 @@ dialog img{max-width:min(86vw,1100px);max-height:86vh}
 code{direction:ltr;unicode-bidi:embed;font-size:13px;word-break:break-all}
 .faq details{background:#fff;border:1px solid var(--line);border-radius:12px;padding:10px 16px;margin-bottom:8px}.faq summary{font-weight:800;cursor:pointer}.faq p{margin:6px 0 2px;color:var(--mut)}
 .cta .num{unicode-bidi:plaintext}
+
+.hposter img,.vid img{height:auto}
