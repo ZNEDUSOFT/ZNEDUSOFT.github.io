@@ -21,11 +21,15 @@
 
 | | |
 |---|---|
-| ![](screenshots/01-home.png) | ![](screenshots/02-students-dashboard.png) |
-| ![](screenshots/03-assessment-results.png) | ![](screenshots/04-exams-hub.png) |
-| ![](screenshots/05-exam-participants.png) | ![](screenshots/10-council-decisions.png) |
+| ![](modules/01-home.webp) | ![](modules/02-students.webp) |
+| ![](modules/05-assess.webp) | ![](modules/06-exams.webp) |
+| ![](modules/12-councils.webp) | ![](modules/15-forms.webp) |
 
-اللقطات من مؤسسة تجريبية ببيانات وهمية.
+اللقطات من مؤسسة تجريبية ببيانات وهمية. ولمزيد من اللقطات ونماذج الوثائق زوروا [صفحة البرنامج](https://znedusoft.github.io/gs-assistant/).
+
+## شروحات بالفيديو
+
+سننشر قريبا فيديوهات تعرّف بالبرنامج وتشرح طريقة إعداده والعمل في كل مكوّن، على صفحتنا في فيسبوك: [ZN EDU SOFT](https://www.facebook.com/ZN.EDU.SOFT).
 
 ## متطلبات التشغيل
 
