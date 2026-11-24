@@ -44,3 +44,11 @@ dialog{border:0;background:transparent;max-width:96vw}dialog::backdrop{backgroun
 
 h1,h2,h3,.brand,.card>b{font-family:Samir,serif;font-weight:400}
 .hero2{display:grid;grid-template-columns:1.15fr .85fr;gap:36px;align-items:center}.hposter{display:block}.hposter img{width:100%;max-width:400px;margin:0 auto;display:block;border-radius:18px;border:1px solid var(--line);box-shadow:0 14px 34px #0b3d6830}@media(max-width:820px){.hero2{grid-template-columns:1fr;gap:24px}}
+
+.fb{width:1.35em;height:1.35em;flex:none;vertical-align:middle}
+.navfb{display:inline-flex;margin-inline-start:14px!important;vertical-align:middle}.navfb .fb{width:30px;height:30px}
+.fbbar{background:#1877f2;color:#fff}.fbbar a{display:flex;align-items:center;gap:14px;color:#fff;text-decoration:none;padding:12px 0}
+.fbbar .fb{width:48px;height:48px;background:#fff;border-radius:50%}.fbbar span{flex:1;line-height:1.6}.fbbar b{display:block;font-size:19px}.fbbar small{display:block;opacity:.92;font-size:14px}
+.fbbar em{font-style:normal;font-weight:800;background:#fff;color:#1877f2;border-radius:999px;padding:6px 18px;white-space:nowrap}
+@media(max-width:700px){.fbbar a{flex-wrap:wrap}.fbbar em{margin-inline-start:62px}}
+.fbc{display:inline-flex;align-items:center;gap:8px;color:#0b3d68;font-weight:800}
