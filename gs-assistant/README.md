@@ -7,7 +7,7 @@
 [![تحميل البرنامج](https://img.shields.io/badge/%E2%AC%87%20%D8%AA%D8%AD%D9%85%D9%8A%D9%84%20%D8%A2%D8%AE%D8%B1%20%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-f0971a?style=for-the-badge)](https://github.com/ZNEDUSOFT/gs-assistant/releases/latest)
 [![واتساب](https://img.shields.io/badge/%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8-0602287330-25D366?style=for-the-badge)](https://wa.me/212602287330)
 
-![ملصق](screenshots/00-poster.png)
+![ملصق](screenshots/00-poster.webp)
 
 </div>
 
