@@ -76,3 +76,4 @@ code{direction:ltr;unicode-bidi:embed;font-size:13px;word-break:break-all}
 .hposter img,.vid img{height:auto}
 .dlrow{display:flex;gap:10px;flex-wrap:wrap;margin-top:8px}.dlrow .btn{margin-top:0!important}
 .hint{margin:10px 0 0;font-size:15px;color:var(--mut)}.dlrow.big{margin:4px 0 16px}
+.ver{display:inline-block;margin:12px auto 0;background:#fff;border:1.5px solid var(--line);border-radius:999px;padding:6px 18px;font-size:15px;color:var(--ink);text-decoration:none}.ver[hidden]{display:none}.ver em{font-style:normal;font-weight:800;color:var(--blue);margin-inline-start:10px}
