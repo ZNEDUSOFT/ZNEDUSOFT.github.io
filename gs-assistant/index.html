@@ -5,7 +5,7 @@
 <header class="nav"><div class="wrap"><a class="brand" href="../"><img src="../assets/logo.png" alt="ZN EDU SOFT">ZN EDU SOFT</a><nav><a href="../">برامجنا</a><a href="#components">المكونات</a><a href="#docs">الوثائق</a><a href="#install">التنصيب</a><a href="#contact">تواصل معنا</a><a class="navfb" href="https://www.facebook.com/ZN.EDU.SOFT" target="_blank" rel="noopener" aria-label="فيسبوك"><svg class="fb" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="12" fill="#1877f2"/><path fill="#fff" d="M13.5 21v-7.5h2.6l.4-3h-3V8.6c0-.9.3-1.5 1.5-1.5h1.6V4.4c-.3 0-1.2-.1-2.3-.1-2.3 0-3.8 1.4-3.8 3.9v2.3H8v3h2.5V21z"/></svg></a></nav></div></header>
 <div class="hero"><div class="wrap hero2"><div><img src="icon.png" alt="" style="width:92px;border-radius:22px;box-shadow:0 8px 24px #0b3d6830"><br><span class="pill">برنامج مكتبي لنظام Windows · يعمل دون إنترنت</span>
 <h1>المساعد الرقمي <em>للإدارة التربوية</em></h1><p>كل مهام تدبير الإدارة التربوية في برنامج واحد: من لوائح «مسار» إلى المطبوعات الجاهزة للطباعة.</p>
-<div class="row"><a class="btn" href="https://github.com/ZNEDUSOFT/gs-assistant/releases/latest/download/GS-Assistant-Setup.zip">⬇ تحميل البرنامج</a><a class="btn sec" href="https://wa.me/212602287330">طلب التفعيل عبر واتساب</a></div></div>
+<div class="row"><a class="btn" href="https://github.com/ZNEDUSOFT/gs-assistant/releases/latest/download/GS-Assistant-Setup.zip">⬇ تحميل البرنامج</a><a class="btn sec" href="https://wa.me/212602287330">طلب التفعيل عبر واتساب</a></div><div><a class="ver" id="ver" data-repo="ZNEDUSOFT/gs-assistant" hidden></a></div></div>
 <a class="hposter" href="screenshots/00-poster.webp" data-z><img src="screenshots/00-poster.webp" width="900" height="1125" alt="ملصق البرنامج"></a></div></div>
 <div class="fbbar"><div class="wrap"><a href="https://www.facebook.com/ZN.EDU.SOFT" target="_blank" rel="noopener"><svg class="fb" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="12" fill="#1877f2"/><path fill="#fff" d="M13.5 21v-7.5h2.6l.4-3h-3V8.6c0-.9.3-1.5 1.5-1.5h1.6V4.4c-.3 0-1.2-.1-2.3-.1-2.3 0-3.8 1.4-3.8 3.9v2.3H8v3h2.5V21z"/></svg><span><b>تابعونا على فيسبوك: ZN EDU SOFT</b><small>صفحتنا الرسمية للأخبار والتحديثات، وهناك ستُنشر شروحات الفيديو للتعريف بالبرنامج وطريقة إعداده والعمل في كل مكوّن</small></span><em>فتح الصفحة ←</em></a></div></div>
 <main class="wrap">
@@ -36,4 +36,5 @@ document.querySelectorAll('.morebtn').forEach(btn=>btn.addEventListener('click',
 sec.querySelectorAll('a.more').forEach(a=>{a.hidden=!open;if(open){const i=a.querySelector('img');if(i&&i.dataset.src){i.src=i.dataset.src;i.removeAttribute('data-src')}}});
 btn.dataset.state=open?'open':'';btn.textContent=open?btn.dataset.close:btn.dataset.open;if(!open)sec.scrollIntoView({behavior:'smooth'})}));
 </script>
+<script src="../assets/version.js" defer></script>
 </body></html>

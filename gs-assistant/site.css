@@ -70,3 +70,4 @@ dialog img{max-width:min(86vw,1100px);max-height:86vh}
 [hidden]{display:none!important}.morebar{text-align:center;margin:18px 0 6px}.morebtn{font:inherit;font-weight:800;font-size:18px;background:#fff;color:var(--ink);border:2px solid var(--acc);border-radius:14px;padding:12px 28px;cursor:pointer;box-shadow:0 6px 16px #f0971a33}.morebtn:hover{background:#fff6e6}
 .shots img,.docs img{height:auto}
 .hposter img,.vid img{height:auto}
+.ver{display:inline-block;margin:12px auto 0;background:#fff;border:1.5px solid var(--line);border-radius:999px;padding:6px 18px;font-size:15px;color:var(--ink);text-decoration:none}.ver[hidden]{display:none}.ver em{font-style:normal;font-weight:800;color:var(--blue);margin-inline-start:10px}
