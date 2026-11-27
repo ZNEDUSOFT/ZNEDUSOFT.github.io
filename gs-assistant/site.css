@@ -71,3 +71,15 @@ dialog img{max-width:min(86vw,1100px);max-height:86vh}
 .shots img,.docs img{height:auto}
 .hposter img,.vid img{height:auto}
 .ver{display:inline-block;margin:12px auto 0;background:#fff;border:1.5px solid var(--line);border-radius:999px;padding:6px 18px;font-size:15px;color:var(--ink);text-decoration:none}.ver[hidden]{display:none}.ver em{font-style:normal;font-weight:800;color:var(--blue);margin-inline-start:10px}
+
+.navfb .yt{width:34px;height:34px}.navfb+.navfb{margin-inline-start:6px!important}
+.ytbar{background:#c4302b;color:#fff}.ytbar a{display:flex;align-items:center;gap:14px;color:#fff;text-decoration:none;padding:12px 0}
+.ytbar .yt{width:48px;height:48px;background:#fff;border-radius:12px;padding:6px}.ytbar span{flex:1;line-height:1.6}.ytbar b{display:block;font-size:19px}.ytbar small{display:block;opacity:.92;font-size:14px}
+.ytbar em{font-style:normal;font-weight:800;background:#fff;color:#c4302b;border-radius:999px;padding:6px 18px;white-space:nowrap}
+@media(max-width:700px){.ytbar a{flex-wrap:wrap}.ytbar em{margin-inline-start:62px}}
+.ytbtn{display:inline-flex;align-items:center;gap:10px;background:#c4302b;color:#fff;font-weight:800;text-decoration:none;border-radius:14px;padding:12px 22px;margin:6px 6px 0}.ytbtn .yt{width:30px;height:30px;background:#fff;border-radius:8px;padding:3px}
+.fbc .yt{width:26px;height:26px}
+.hv{display:inline-block;align-self:flex-start;background:#eaf3fd;color:var(--blue);border-radius:999px;padding:2px 14px;font-weight:800;font-size:14px}.hv[hidden]{display:none}
+#whatsnew .rel{background:#fff;border:1px solid var(--line);border-radius:14px;padding:12px 18px;margin-bottom:12px}#whatsnew .rel.cur{border-color:var(--acc);box-shadow:0 6px 18px #f0971a1f}
+#whatsnew h3{font-family:Samir,serif;font-weight:400;font-size:26px;margin:0}#whatsnew h4{margin:10px 0 2px}#whatsnew .rd{color:var(--mut);font-size:14px}#whatsnew p{margin:6px 0}#whatsnew ul{margin:6px 0;padding-inline-start:22px}
+.newtag{background:var(--acc);color:#1b1200;border-radius:999px;padding:1px 10px;font-size:13px;font-family:Mohanad,sans-serif;vertical-align:middle}
